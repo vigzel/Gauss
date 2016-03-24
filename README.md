@@ -7,7 +7,7 @@ Web application that can be used for conversion of GPS coordinates from WGS84 to
 
 The tool is written in a pure JavaScript and is relaying on a two open sources projects: [Leaflet](http://leafletjs.com/) for cartography and [Proj4js](https://github.com/proj4js/proj4js) for actual transformation calculations. No server side scripts are used.
 
-You can read more about the tool on my [blog](http://svemir.co/categories/tools/).
+You can read more about the tool on my [blog](http://svemir.co/categories/gauss/).
 
 ## Usage
 
